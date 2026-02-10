@@ -160,6 +160,14 @@
       "priceCents": 650,
       "stock": 16,
       "imageUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591"
+    },
+    {
+      "id": "p21",
+      "name": "Batidos de proteina",
+      "category": "Drinks",
+      "priceCents": 100,
+      "stock": 160,
+      "imageUrl": "https://images.unsplash.com/photo-1513104890138-7c749659a591"
     }
   ]
 }
